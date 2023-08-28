@@ -3,10 +3,10 @@
 ## Resources
 Read or watch:
 
-[Redis quick start](https://intranet.alxswe.com/rltoken/8xeApIhnxgFZkgn54BiIeA)
-[Redis client interface](https://intranet.alxswe.com/rltoken/1rq3ral-3C5O1t67dbGcWg)
-[Redis client for Node JS](https://intranet.alxswe.com/rltoken/mRftfl67BrNvl-RM5JQfUA)
-[Kue deprecated but still use in the industry](https://intranet.alxswe.com/rltoken/yTC3Ci2IV2US24xJsBfMgQ)
+* [Redis quick start](https://intranet.alxswe.com/rltoken/8xeApIhnxgFZkgn54BiIeA)
+* [Redis client interface](https://intranet.alxswe.com/rltoken/1rq3ral-3C5O1t67dbGcWg)
+* [Redis client for Node JS](https://intranet.alxswe.com/rltoken/mRftfl67BrNvl-RM5JQfUA)
+* [Kue deprecated but still use in the industry](https://intranet.alxswe.com/rltoken/yTC3Ci2IV2US24xJsBfMgQ)
 
 ## Learning Objectives
 You are expected to be able to explain to anyone, without the help of Google:
